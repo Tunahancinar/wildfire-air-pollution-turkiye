@@ -1,0 +1,14 @@
+numpy
+pandas>=2.0
+matplotlib
+scipy
+openpyxl
+geopandas
+shapely
+ruptures
+rasterio
+earthengine-api
+requests
+streamlit>=1.40
+folium
+streamlit-folium
